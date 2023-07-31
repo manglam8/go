@@ -1,2 +1,2 @@
 # go
-# mini projects on go
+mini projects on go
